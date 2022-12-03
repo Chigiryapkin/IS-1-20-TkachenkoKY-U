@@ -24,7 +24,7 @@ namespace IS_3_20_TkachenkoKY_U
 
         private void button1_Click(object sender, EventArgs e)
         {
-            One f = new One();
+            Task1 f = new Task1();
             f.ShowDialog();
         }
 
